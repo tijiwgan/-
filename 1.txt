@@ -1,1 +1,37 @@
-# 清单
+GIT 
+
+pwd
+mkdir
+cd
+touch
+start 
+
+git init
+git add .
+git commit -m "xxx"
+git tag xxx
+git tag -d xxx
+
+git status
+git diff
+git log
+git reflog
+
+git checkout .
+git reset .
+git reset  --hard head
+
+git branch
+git branch -d dev
+git switch -c dev
+git swtitch dev
+git merge dev
+git rm *
+
+git  remote add origin
+git  remote rm  origin
+git push -u origin main
+git push
+git pull
+git clone
+
